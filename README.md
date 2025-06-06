@@ -35,3 +35,11 @@ cat hospital_data/reports/analysis_report.txt
 # View active logs
 tail -f hospital_data/active_logs/heart_rate.log
 
+```
+
+## Group Members
+- SONIA KEZA (s.keza1@alustudent.com)  
+- Darlene Ayinkamiye (d.ayinkamiy@alustudent.com)  
+- Abatoni Mugabo Lea (I.abatoni@alustudent.com)  
+- Christian MPANO (c.mpano1@alustudent.com)  
+- Waliyat Badmus (w.badmus@alustudent.com)
